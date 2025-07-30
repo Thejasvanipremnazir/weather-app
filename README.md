@@ -53,6 +53,14 @@ weather-app/
 │   ├── index.js
 ├── package.json
 
+
+
+
+
+
+
+
+
 output
 
 <img width="1365" height="679" alt="Screenshot 2025-07-30 234540" src="https://github.com/user-attachments/assets/16742fb1-ca63-4a8d-9b30-5d6d39b8a41c" />
