@@ -54,9 +54,10 @@ weather-app/
 ├── package.json
 
 output
-<img width="1365" height="672" alt="Screenshot 2025-07-30 234617" src="https://github.com/user-attachments/assets/dd03864d-d6fa-4c23-a078-7f2bca2074ca" />
+
 <img width="1365" height="679" alt="Screenshot 2025-07-30 234540" src="https://github.com/user-attachments/assets/16742fb1-ca63-4a8d-9b30-5d6d39b8a41c" />
 <img width="1366" height="670" alt="Screenshot (31)" src="https://github.com/user-attachments/assets/8ea96fa2-ac84-4494-bc3a-bb30fcf74368" />
+<img width="1365" height="672" alt="Screenshot 2025-07-30 234617" src="https://github.com/user-attachments/assets/dd03864d-d6fa-4c23-a078-7f2bca2074ca" />
 
 
 ✍️ Author
